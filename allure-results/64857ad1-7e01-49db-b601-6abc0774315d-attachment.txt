@@ -1,0 +1,30 @@
+step one
+APIResponse: 200 OK
+  Date: Fri, 19 Jun 2026 00:15:11 GMT
+  Content-Type: application/json
+  Content-Length: 419
+  Connection: keep-alive
+  Host: test.api.amadeus.com
+  X-Forwarded-For: 76.36.177.143
+  X-Forwarded-Port: 443
+  X-Forwarded-Proto: https
+  user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.96 Safari/537.36
+  accept: */*
+  accept-encoding: gzip,deflate,br
+  Ama-Gateway-Request-Id: rrt-0f82ae99b1525424f-c-eu-2734992-87012064-1
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Headers: origin, x-requested-with, accept, Content-Type
+  Access-Control-Max-Age: 3628800
+  Access-Control-Allow-Methods: POST, GET, OPTIONS
+  Server: Amadeus
+{
+  type: 'amadeusOAuth2Token',
+  username: 'naveenanimation20@gmail.com',
+  application_name: 'July2025APP',
+  client_id: 'pUYP1Wr0MJmKmt3uSwI7fwcmYjcN7tub',
+  token_type: 'Bearer',
+  access_token: 'XLxqPNDR6DpdCRZLBrs8dedPcHQH',
+  expires_in: 1799,
+  state: 'approved',
+  scope: ''
+}

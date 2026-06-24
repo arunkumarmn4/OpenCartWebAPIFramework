@@ -1,0 +1,35 @@
+APIResponse: 200 OK
+  Date: Tue, 16 Jun 2026 22:02:30 GMT
+  Content-Type: application/json; charset=utf-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Cache-Control: max-age=0, private, must-revalidate
+  content-security-policy-report-only: default-src 'self'; script-src 'self' https://pagead2.googlesyndication.com 'nonce-+MR/HIzR3gB8yVyIFULopQ=='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://pagead2.googlesyndication.com https://ep1.adtrafficquality.google; frame-src https://googleads.g.doubleclick.net https://ep2.adtrafficquality.google https://www.google.com; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  etag: W/"c1edb65b30f6260c9bce535f07eeba63"
+  feature-policy: camera 'none'; gyroscope 'none'; microphone 'none'; usb 'none'; fullscreen 'self'
+  referrer-policy: strict-origin-when-cross-origin
+  strict-transport-security: max-age=63072000; includeSubDomains
+  vary: Origin
+  x-content-type-options: nosniff
+  x-frame-options: SAMEORIGIN
+  x-permitted-cross-domain-policies: none
+  x-ratelimit-limit: 300
+  x-ratelimit-remaining: 299
+  x-ratelimit-reset: 0
+  x-request-id: 194dc221-94fa-476c-a0d8-4b0f52c26d7a
+  x-runtime: 0.035380
+  x-xss-protection: 0
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=veXG9wvy9qQLw9WbTgtbY1QMqlyyvGSBw0%2FEX19sGgywL676GSPeYxa09EhMjH0M0QLHvb7hC3b2eC9cLU36tMTlOhE2L7QIUR4%2BRt0OYIsXHYg04aFiedI1PnqZVKUhHxA6tmjA0w4hSOY%3D"}]}
+  Content-Encoding: br
+  Server: cloudflare
+  CF-RAY: a0cd195deb7a07cc-IAD
+  alt-svc: h3=":443"; ma=86400
+{
+  id: 8509066,
+  name: 'Arunupdatedtwo',
+  email: 'aruntwo@updated.com',
+  gender: 'female',
+  status: 'inactive'
+}
